@@ -1,0 +1,105 @@
+#bodypad { 
+	padding-top: 70px; 
+}
+
+.firstlog {
+	padding-top: 160px;
+}
+
+#bodyuser {
+	padding-top: 80px;
+}
+
+#bodyindex {
+	padding-top: 100px;	
+}
+
+.error {
+	color: red;
+	font-weight: normal;
+}
+
+#suc {
+	padding-bottom: 15px;
+	font-size: 1.3em;
+}
+
+.form-control.error {
+	border-color: red;
+}
+
+#logouthier:link {
+  text-decoration: underline;
+}
+
+.bg-info {
+	background-color: #333333;
+}
+
+.rowborder, .colborder {
+	color: #AEAEAE;
+}
+
+.btncolor {
+	color: black;
+}
+
+.rowfirst {
+	margin-top: 5%;
+}
+
+.rowlast {
+	margin-bottom: 5%;
+}
+
+@media (max-width: 768px) {
+    p.he {
+    	font-size: 1.5em;
+    	font-weight: bold;
+    	margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 768px) {
+    p.he {
+    	font-size: 2em;
+    	font-weight: bold;
+    	margin-bottom: 20px;
+    }
+}
+
+@media (min-width: 992px) {
+    p.he {
+    	font-size: 2.5em;
+    	font-weight: bold;
+    	margin-bottom: 25px;
+    }
+}
+
+@media (min-width: 1200px) {
+    p.he {
+    	font-size: 2.75em;
+    	font-weight: bold;
+    	margin-bottom: 50px;
+    }
+}
+
+#user:link {
+	text-decoration: none;
+	color: white;
+}
+
+#user:visited {
+	text-decoration: none;
+	color: white;
+}
+
+#user:active {
+	text-decoration: none;
+	color: white;
+}
+
+#user:hover {
+	text-decoration: underline;
+	color: white;
+}
